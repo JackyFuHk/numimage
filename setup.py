@@ -23,7 +23,7 @@ setuptools.setup(
     # 模式的格式
     long_description_content_type="text/markdown",
     # 项目提供主页URL
-    url="https://github.com/hanlingzhi/PackageToPypi-Demo",
+    url="https://github.com/JackyFuHk/numimage",
     # 许可证类型 https://choosealicense.com/ 可以选择证书类型
     license='MIT',
     # 程序包列表 package包会自动搜索
