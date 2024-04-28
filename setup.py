@@ -11,7 +11,7 @@ setuptools.setup(
     # 包名
     name="numimage",
     # 版本(也可以用日期表示 2020.3.1 这样每次提交不需要在改版本)
-    version="0.0.1",
+    version="0.0.3",
     # 作者
     author="JackyFu",
     # 作者邮箱
