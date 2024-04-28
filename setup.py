@@ -54,7 +54,7 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     # 包依赖
-    install_requires=['pytest'],
+    install_requires=['pytest','torch==2.0.1','torchvision','svg.path'],
     # python版本依赖
     python_requires='>=3.6',
 )
