@@ -11,9 +11,9 @@ setuptools.setup(
     # 包名
     name="numimage",
     # 版本(也可以用日期表示 2020.3.1 这样每次提交不需要在改版本)
-    version="0.0.2",
+    version="0.0.1",
     # 作者
-    author="jacky",
+    author="JackyFu",
     # 作者邮箱
     author_email="343651570@qq.com",
     # 包的说明(这个要正规,会展示出来, 列表页灰色横幅可见)

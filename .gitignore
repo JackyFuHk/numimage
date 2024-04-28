@@ -8,7 +8,7 @@
 pip-log.txt
 pip-delete-this-directory.txt
 
-
+get2fa.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
